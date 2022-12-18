@@ -1,6 +1,6 @@
 # DoubleTapProject
-Contributors:
-Baileigh Ross
-Cas Mendez
-Cody McNeill
-Eric Rincon
+<p>Contributors:<br>
+Baileigh Ross<br>
+Cas Mendez<br>
+Cody McNeill<br>
+Eric Rincon</p>
