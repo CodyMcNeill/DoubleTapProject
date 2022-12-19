@@ -23,9 +23,9 @@ div div input{
     border-width: 1px !important;
 }
 
-div div {
+/* div div {
    
-}
+} */
 
 div button{
     padding-left: 6% !important;
@@ -75,3 +75,10 @@ div img{
     margin-top: -66%;
 }
 
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
