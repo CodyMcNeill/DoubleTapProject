@@ -5,3 +5,94 @@ ul {
 body {
     font-family: 'Roboto Condensed', sans-serif;
 }
+
+
+
+
+
+nav{
+    margin-top: 2%;
+    text-decoration: none !important;
+}
+
+.nav-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-flow: wrap;
+    text-decoration: none !important;
+
+    /* border-bottom: ; */
+    /* justify-content-md-between py-3 mb-4 border-bottom  */
+
+}
+
+.navbar-brand{
+    margin-right: 5% !important;
+    padding-right: 1%;
+    /* padding-right: 55px; */
+
+    
+}
+
+/* img{ this was supposed to be for the double tap logo but i dont want it to affect other things
+    height: auto;
+    width: 160px;
+} */
+
+.nav-item, .navi-item:active{
+    list-style: none;
+    text-decoration: none !important;
+    justify-content: center;
+
+}
+
+.navi-buttons{
+    margin-left: 5%;
+}
+
+
+.intro-content{ /* THIS IS THE MAIN CONTAINER */  
+    /* display: flex;
+    flex-wrap: wrap; */
+    display: grid;
+
+}
+
+.intro-content-divider{
+    display: flex;
+    text-align: center;
+    margin: 1% auto 3%;
+/* top | right | bottom | left */
+
+}
+
+
+.header-side{
+    /* display: grid;
+    max-width: 100%;
+     */
+    align-self:center;
+    flex-grow: 1 1 0;
+
+}
+
+
+.btn-success, .btn-success:hover, .btn-success:active, .btn-success:visited {
+    background-color: #7cd324 !important;
+    
+}
+
+.btn-success{
+    margin-right: 50px;
+}
+
+
+.ellipse-image{
+    height: 10px;
+    width: auto;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
