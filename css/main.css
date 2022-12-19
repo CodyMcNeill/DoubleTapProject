@@ -1,0 +1,77 @@
+.container-xl {
+ margin-top: 6% !important;
+ margin-left: 5% !important;
+}
+
+div h1 {
+    font-weight:700;
+    font-size: 400%;
+    padding-left: 3%;
+}
+
+.L {
+    padding-top: 2%;
+    
+}
+
+div div input{
+    font-size: 40px !important;
+    width: 120% !important;
+    margin-bottom: 17% !important;
+    border-style: solid !important;
+    border-color: grey !important;
+    border-width: 1px !important;
+}
+
+div div {
+   
+}
+
+div button{
+    padding-left: 6% !important;
+    padding-right: 6% !important;
+    font-weight: bold !important;
+    font-size: 30px !important;
+    margin-top: 0.5%;
+    border-color: grey !important;
+    border-width: 1px !important;
+}
+
+h2{
+    font-size: 20px;
+    margin-left: 6%;
+    margin-top: 2.5%;
+    font-weight: bold;
+}
+
+div img{
+    margin-top: 3%;
+    margin-right: 4%;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    border:solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+
+
+.formimg{
+    border-radius: 0%;
+    border:none;
+    margin-top: -104%;
+    width: 2.5%;
+    height: 1.5%;
+    margin-left: 2%;
+}
+
+.bigimg{
+    border-radius: 0%;
+    border:none;
+    width: 86%;
+    height: 86%;
+    margin-left: 43%;
+    margin-top: -66%;
+}
+
